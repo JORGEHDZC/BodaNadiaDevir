@@ -3004,6 +3004,8 @@ hr {
     }
 }
 
+
+
 .Our-story-area .story-caption .story-details h4 {
     font-size: 30px;
     font-weight: 400;
@@ -3032,7 +3034,7 @@ hr {
 
 @media (max-width: 575px) {
     .Our-story-area .story-caption .story-details-conocimos p {
-        font-size: 10px;
+        font-size: 12px;
         color: #fff
     }
 }
